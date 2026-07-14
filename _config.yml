@@ -8,10 +8,3 @@ baseurl: "/RobuO"
 markdown: kramdown
 theme: null
 
-
-plugins:
-  - jekyll-feed
-
-collections:
-  people:
-    output: true
