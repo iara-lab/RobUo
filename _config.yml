@@ -1,8 +1,8 @@
 title: RobuO
 description: Intelligent Robotics and Control at uOttawa
 
-baseurl: "https://iara-lab.github.io"
-url: "RobuO"
+url: "https://iara-lab.github.io"
+baseurl: "/RobuO"
 
 
 markdown: kramdown
