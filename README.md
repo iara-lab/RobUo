@@ -1,6 +1,5 @@
-# iara-site
-# IARA Website
+# RobuO Website
 
-Jekyll-based landing page for the intelligent robotics and control cluster, RobUo at the University of Ottawa.
+Jekyll-based landing page for the robotics at the University of Ottawa, RobuO reseach cluster.
 
 ## Run locally
